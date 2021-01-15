@@ -6,6 +6,7 @@ class Bird extends BaseClass {
   
     display() {
       super.display();
+      
     }
   }
   
